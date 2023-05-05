@@ -5,10 +5,12 @@ Awesome resources for Bluesky
 
 * https://skeet.labnotes.org/
 * https://fedifinder.glitch.me/# - [source](https://github.com/lucahammer/fedifinder)
+* https://gggdomi.github.io/follow-the-sky/
 
-## Visualize social graph
+## Visualization Tools
 
-* https://bsky.jazco.dev/
+* https://bsky.jazco.dev/ - Social Graph
+* https://bluesky-heatmap.fly.dev/ - Post heatmap
 
 ## SDKs / Servers
 
