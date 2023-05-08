@@ -1,6 +1,23 @@
 # awesome-bluesky
 Awesome resources for Bluesky
 
+https://github.com/bluesky-social/atproto-ecosystem 
+
+## Protocol
+
+* https://github.com/bluesky-social/ - primary Github org
+* https://atproto.com/docs - AT protocol docs
+
+## Clients
+
+See https://github.com/bluesky-social/atproto-ecosystem#clients
+
+## SDKs / Libraries
+
+* https://github.com/MarshalX/atproto - SDK for Python
+* https://github.com/bluesky-social/indigo - golang implementation
+
+
 ## Find connections from Twitter
 
 * https://skeet.labnotes.org/
@@ -11,10 +28,6 @@ Awesome resources for Bluesky
 
 * https://bsky.jazco.dev/ - Social Graph
 * https://bluesky-heatmap.fly.dev/ - Post heatmap
-
-## SDKs / Servers
-
-* https://github.com/bluesky-social/indigo - golang implementation
 
 ## Other cool shit
 
